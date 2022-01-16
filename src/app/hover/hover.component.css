@@ -1,0 +1,37 @@
+.one img{
+    position: absolute;
+    margin-top: 194px;
+}
+.one img:hover{
+    transform: scale(0.9);
+    transition: ease all 0.7s;
+}
+.two img{
+    position: absolute;
+    margin-top: 194px;
+    margin-left: 370px;
+}
+.two img:hover{
+    transform: scale(0.9);
+    transition: ease all 0.7s;
+}
+.three img{
+    position: absolute;
+    margin-top: 194px;
+    margin-left: 740px
+}
+.three img:hover{
+    transform: scale(0.9);
+    transition: ease all 0.7s;
+}
+.four img{
+    position: absolute;
+    margin-top: 194px;
+    margin-left: 1109px;
+    width: 240px;
+    height: 466px;
+}
+.four img:hover{
+    transform: scale(0.9);
+    transition: ease all 0.7s;
+}

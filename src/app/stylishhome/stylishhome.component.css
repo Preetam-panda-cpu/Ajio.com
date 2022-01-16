@@ -1,0 +1,26 @@
+.fav img{
+    position: absolute;
+    width: 100%;
+    margin-top: 1672px;
+}
+.one img{
+    position: absolute;
+    margin-top:1729px;
+}
+.two img{
+    position: absolute;
+    margin-top:1729px;
+    margin-left: 370px;
+}
+.three img{
+    position: absolute;
+    margin-top:1729px;
+    margin-left: 740px;
+}
+.four img{
+    position: absolute;
+    margin-top:1729px;
+    margin-left: 1120px;
+    width: 229px;
+    height: 485px;
+}

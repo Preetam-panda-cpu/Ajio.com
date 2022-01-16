@@ -1,0 +1,42 @@
+.fav img{
+    position: absolute;
+    width: 100%;
+    margin-top: 1119px;
+}
+.one img{
+    position: absolute;
+    margin-top: 1190px;
+}
+.one img:hover{
+    transform: scale(0.9);
+    transition: ease all 0.7s;
+}
+.two img{
+    position: absolute;
+    margin-left: 369px;
+    margin-top: 1190px;
+}
+.two img:hover{
+    transform: scale(0.9);
+    transition: ease all 0.7s;
+}
+.three img{
+    position: absolute;
+    margin-left: 739px;
+    margin-top: 1190px;
+}
+.three img:hover{
+    transform: scale(0.9);
+    transition: ease all 0.7s;
+}
+.four img{
+    position: absolute;
+    margin-left: 1110px;
+    margin-top: 1190px;
+    width: 239px;
+    height: 478px;
+}
+.four img:hover{
+    transform: scale(0.9);
+    transition: ease all 0.7s;
+}

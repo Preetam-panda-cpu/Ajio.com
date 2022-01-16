@@ -1,0 +1,48 @@
+.one img{
+    position: absolute;
+    margin-top: 2206px;
+    width: 100%;
+}
+.one img:hover{
+    transform: scale(0.9);
+    transition: ease all 0.7s;
+}
+.ftr-top ul  > mat-icon{
+    position: absolute;
+    margin-top: 2321px;
+    margin-left: 202px;
+}
+
+.ftr-top ul  span {
+    position: absolute;
+    margin-top: 2357px;
+    margin-left: 170px;
+    font-family: Lora;
+    font-size: 14px;
+}
+.two img{
+    position: absolute;
+    margin-top: 2322px;
+    margin-left: 623px;
+    width: 30px;
+}
+.two span{
+    position: absolute;
+    margin-top: 2357px;
+    margin-left: 578px;
+    font-family: Lora;
+    font-size: 14px;
+}
+.three img{
+    position: absolute;
+    margin-top: 2322px;
+    margin-left: 996px;
+    width: 30px;
+}
+.three span{
+    position: absolute;
+    margin-top: 2357px;
+    margin-left: 961px;
+    font-family: Lora;
+    font-size: 14px;
+}
